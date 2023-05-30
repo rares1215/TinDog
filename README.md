@@ -1,2 +1,1 @@
-# TinDog
-date website
+TinDog Starting Files
